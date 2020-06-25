@@ -9,7 +9,7 @@ body {
 
 h1 {
     margin-bottom: 12px;
-    font-family: 'manrope', sans-serif;
+    font-family: 'Pacifico', cursive;
     color: white;
 }
 
@@ -22,11 +22,20 @@ h1 {
 
 }
 
+
+
+.input {
+    padding: 5px 0;
+    border: solid 2px white;
+    border-radius: 23px;
+    text-align: center;
+}
+
 a{
     border: solid 2px pink;
     border-radius: 23px;
     background-color: white;
     padding: 5px 9px;
     text-decoration: none;
-    color: #f0a3b0;
+    color: #ec5f76;
 }
